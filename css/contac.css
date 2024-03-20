@@ -1,0 +1,107 @@
+header {
+        font-family:'Istok Web';
+        background:#F1F1F1;
+        height:10px;
+        padding-top:40px;
+        padding-bottom:45px;
+        width:100%;
+        text-align:right;
+        position: relative;
+        top:-10px;
+        font-style: small;
+        object-position: center;
+    }
+    nav ul {
+        list-style:none;
+        display:inline;
+        margin-right:-30px;
+        padding-right:325px;
+    }
+    nav li {
+        list-style:none;
+        display:inline;
+        margin-right:24px;
+        position: relative;
+        top: -40px;
+    }
+    nav a{
+        color:#7DBDDD;
+        text-decoration:none;
+    }
+    nav img {
+        left:-176px;
+        top:-23px;
+        position:relative;
+    }
+
+#mapa {
+    position: relative;
+    top:80px;
+    left:90px;
+}
+#face img{
+    position: relative;
+    top:-290px;
+    left:750px;
+    width:50px;
+    height:50px;
+}
+#face h2{
+    font-family:'Istok Web';
+    position: relative;
+    top: -370px;
+    left:820px;
+}
+#face h3{
+    font-family: 'Istok Web';
+    position: relative;
+    top:-430px;
+    left:830px;
+}
+#tele img{
+    position: relative;
+    top:-380px;
+    left: 750px;
+    width:50px;
+    height: 50px;
+}
+#tele h2{
+    font-family: 'Istok Web';
+    position: relative;
+    top:-470px;
+    left:830px;
+}
+#tele h3{
+    font-family: 'Istok Web';
+    position: relative;
+    top: -520px;
+    left: 830px;
+}
+#cor img{
+    position: relative;
+    top:-470px;
+    left: 750px;
+    width: 50px;
+    height: 50px;
+}
+#cor h2{
+    font-family: 'Istok Web';
+    position: relative;
+    top: -550px;
+    left: 830px;
+}
+#cor h3{
+    font-family: 'Istok Web';
+    position: relative;
+    top: -610px;
+    left: 830px;
+}
+.footer-basic {
+    font-family: 'Istok Web';
+    position: absolute;
+    top:-400px;
+    object-position: center;
+    width: 1410px;
+    height:300px;
+    object-position: left;
+}

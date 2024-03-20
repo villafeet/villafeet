@@ -1,0 +1,142 @@
+header {
+        font-family:'Istok Web';
+        background:#F1F1F1;
+        height:50px;
+        padding-top:50px;
+        padding-bottom:45px;
+        top:0;
+        width:100%;
+        text-align:right;
+        object-position: left;
+    }
+    nav ul {
+        list-style:none;
+        display:inline;
+        margin-right:24px;
+        padding-right:325px;
+    }
+    nav li {
+        list-style:none;
+        display:inline;
+        margin-right:24px;
+        position: relative;
+        top: -20px;
+    }
+    nav a{
+        color:#7DBDDD;
+        text-decoration:none;
+    }
+    nav img {
+        left:-176px;
+        top:-35px;
+        position:relative;
+    }
+    #carrusel {
+        text-align: center;
+        padding: 50px;
+        background-color: #f2f2f2;
+    }
+    #dos-imagenes, #imagen-y-texto {
+        display: flex;
+        justify-content: space-around;
+        margin: 20px 0;
+    }
+    #imagen-y-texto img {
+        margin-right: 20px;
+    }
+#theCarousel {
+  position:relative;
+  top: -18px;
+  left: -110px;
+  width:1360px;
+  height:582px;
+  font-family: 'Istok Web' ;
+  }
+#theCarousel h1{
+    position: relative;
+    text-align: center;
+    color: #2C2C2C;
+    top: -250px;
+}
+#theCarousel h4{
+    position:relative;
+    text-align: center;
+    color: #2C2C2C;
+    top: -245px;
+}
+#dos-imagenes {
+    position: relative;
+    display: flex;
+    justify-content:space-evenly;
+    margin: 20px 0;
+    top: 150px;
+}
+#dos-imagenes img{
+    border-radius:4%;
+}
+
+#imagen-y-texto h3 {
+    position: relative;
+    top: 276px;
+    right:150px;
+    margin-right: 20px;
+    font-family: 'Istok Web' ;
+    color:#3BC784;
+}
+#imagen-y-texto p{
+    position: relative;
+    top:290px;
+    font-family: 'Istok Web';
+    right:150px;
+}
+#imagen-y-texto img{
+    position: relative;
+    top:236px;
+    left:24px;
+    border-radius:4%;
+
+}
+
+#inform img{
+    position: relative;
+    top: 350px;
+    left:170px;
+}
+#inform2 img{
+    position: relative;
+    top:-117px;
+    left:530px;
+}
+#inform3 img{
+    position: relative;
+    top:-590px;
+    left:890px;
+}
+#instalaciones {
+    position: relative;
+    top: -450px;
+    text-align: center;
+    color:#3BC784;
+
+}
+#clientes {
+    position: relative;
+    top:-360px;
+    text-align: center;
+    color: #007DBC;
+}
+#opiniones {
+    position: relative;
+    top:-360px;
+    text-align: center;
+    font-family: 'Istok Web';
+    color: #007DBC;
+}
+.footer-basic {
+    position: absolute;
+    top: 3900px;
+    object-position: center;
+    width: 1410px;
+    height:300px;
+    object-position: left;
+}

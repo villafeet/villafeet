@@ -1,0 +1,42 @@
+#menu {
+	background:#F1F1F1;
+	height:50px;
+	padding-top:50px;
+	padding-bottom:45px;
+	position:fixed;
+	top:0;
+	width:100%;
+}
+#menu li {
+	list-style:none;
+	display:inline;
+	margin-right:24px;
+}
+#menu ul {
+	text-align:right;
+	padding-right:325px;	
+}
+#menu a {
+	color:#7DBDDD;
+	text-decoration:none;
+	font-family:'Istok Web';
+}
+#menu img {
+	width:49px;
+	height:68px;
+	left:176px;
+	top:15px;
+	position:fixed;
+}
+#theCarousel {
+  top: 95px;
+  left: 0px;
+  position: fixed;
+  font-family: 'Istok Web' ;
+  }
+ #theCarousel h1{
+ 	position: fixed;
+ 	top: 250px;
+ 	padding-left: 355px;
+ 	color: #2C2C2C;
+ }
